@@ -11,7 +11,7 @@ export default function exp() {
             <li>- Build web landing page Reblood (reblood.com)</li>
             <li>- Build web RSVP covid vaccine region Surabaya and employee PT PELINDO</li>
           </ul>
-          <p className="text-sm font-bold mt-4">Internship</p>
+          <p className="text-sm font-bold mt-4">Work</p>
           <ul className="text-sm">
             <li>- build new feature donor history on PWA reblood</li>
             <li>- Build a blood donor RSVP website</li>
